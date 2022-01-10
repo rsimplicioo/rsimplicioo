@@ -1,9 +1,11 @@
 ## Oi, eu sou o Rafael !
 
-I'm a front-ent developer \n
+I'm a front-ent developer
+
 I’m currently working at Websis
 
 💜 React Native
+
 💻 ReactJS, React Native, Typescript
 
 "Se tu o desejas, podes voar, só tens de confiar muito em ti."
