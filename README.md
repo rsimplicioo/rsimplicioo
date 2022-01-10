@@ -1,12 +1,12 @@
 ## Oi, eu sou o Rafael !
 
-I'm a front-ent developer
+I'm a front-ent developer<br />
 I’m currently working at Websis
 
-💜 React Native
+💜 React Native<br />
 💻 ReactJS, React Native, Typescript
 
-"Se tu o desejas, podes voar, só tens de confiar muito em ti."
+<i>"Se tu o desejas, podes voar, só tens de confiar muito em ti."</i>
 
 <div align="center" display="inline-block">
   <a href="https://github.com/rsimplicioo">
