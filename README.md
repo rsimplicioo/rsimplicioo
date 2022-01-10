@@ -1,6 +1,6 @@
 ## Oi, eu sou o Rafael !
 
-I'm a front-ent developer
+I'm a front-ent developer \n
 I’m currently working at Websis
 
 💜 React Native
