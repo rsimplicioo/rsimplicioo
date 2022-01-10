@@ -1,7 +1,12 @@
 ## Oi, eu sou o Rafael !
 
-- 💻 Hoje trabalho com Mobile ...
-- 🌱 Estudando React Native, ReactJS, Node ...
+I'm a front-ent developer
+I’m currently working at Websis
+
+💜 React Native
+💻 ReactJS, React Native, Typescript
+
+"Se tu o desejas, podes voar, só tens de confiar muito em ti."
 
 <div align="center" display="inline-block">
   <a href="https://github.com/rsimplicioo">
