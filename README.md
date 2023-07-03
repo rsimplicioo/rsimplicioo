@@ -10,7 +10,7 @@ I’m currently working at Websis
 
 <div align="center" display="inline-block">
   <a href="https://github.com/rsimplicioo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsimplicioo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=rsimplicioo&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats-wheat-two-53.vercel.app/api?username=rsimplicioo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsimplicioo&count_private=true&layout=compact&langs_count=7&theme=dark&include_all_commits=true&show_icons=true"/>
 </div>
 <div style="display: inline_block"><br>
