@@ -7,6 +7,7 @@ I’m currently working at Websis
 <!-- 💻 ReactJS, React Native, Typescript -->
 
 <i>"Se tu o desejas, podes voar, só tens de confiar muito em ti."</i>
+
   ##
 <!--
 <div display="inline-block">
@@ -31,6 +32,7 @@ I’m currently working at Websis
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 </div> 
+
   ##
   
 <!-- 
