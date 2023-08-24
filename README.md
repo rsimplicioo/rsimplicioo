@@ -3,6 +3,8 @@
 I'm a front-ent developer<br />
 I’m currently working at Websis
 
+Voltando pro meu Javinha ☕
+
 <!-- 💜 React Native<br /> -->
 <!-- 💻 ReactJS, React Native, Typescript -->
 
