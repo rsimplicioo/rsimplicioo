@@ -5,8 +5,8 @@ I’m currently working at Websis
 
 Studying back-end !!!
 
-<!-- 💜 React Native<br /> -->
-<!-- 💻 ReactJS, React Native, Typescript -->
+💜 React Native<br /> 
+💻 ReactJS, React Native, Typescript
 
 <i>"Se tu o desejas, podes voar, só tens de confiar muito em ti."</i>
 
