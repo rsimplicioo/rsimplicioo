@@ -5,6 +5,7 @@ I’m currently working at Websis
 
 Studying back-end !!!
 
+:coffee: Java<br /> 
 💜 React Native<br /> 
 💻 ReactJS, React Native, Typescript
 
