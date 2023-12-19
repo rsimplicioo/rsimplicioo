@@ -1,4 +1,4 @@
-## Oi, eu sou o Rafael !
+## Hi, I'm Rafael !
 
 I'm a front-end developer<br />
 I’m currently working at Websis
