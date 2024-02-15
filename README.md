@@ -1,13 +1,13 @@
 ## Hi, I'm Rafael !
 
-I'm a front-end developer<br />
-I’m currently working at Websis
+
+I'm a backend developer<br />
+I’m currently working at Fóton Informática
 
 Studying back-end !!!
 
 :coffee: Java<br /> 
 💜 React Native<br /> 
-💻 ReactJS, React Native, Typescript
 
 <i>"Se tu o desejas, podes voar, só tens de confiar muito em ti."</i>
 
