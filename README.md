@@ -4,8 +4,6 @@
 I'm a backend developer<br />
 I’m currently working at Fóton Informática
 
-Studying back-end !!!
-
 :coffee: Java<br /> 
 💜 React Native<br /> 
 
