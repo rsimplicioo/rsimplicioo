@@ -5,7 +5,7 @@ I'm a backend developer<br />
 I’m currently working at Fóton Informática | Caixa Econômica
 
 :coffee: Java<br /> 
-:books:  Estudando GoLang
+:books:  Studying GoLang
 
 <i>"Se tu o desejas, podes voar, só tens de confiar muito em ti."</i>
 
